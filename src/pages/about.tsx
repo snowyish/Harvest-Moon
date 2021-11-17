@@ -1,6 +1,6 @@
 import { HStack, Text, VStack, Heading, Image, Link } from "@chakra-ui/react";
 
-export default function components() {
+export default function about() {
 	return (
 		<HStack 
 			spacing={{base: "0px", md:"36px" }}

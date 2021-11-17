@@ -17,7 +17,7 @@ export default function Main() {
 					Home 
 				</NextLink>
 				<NextLink
-					href="/cat">
+					href="/about">
 					About 
 				</NextLink>
 				<NextLink href="/catto">
